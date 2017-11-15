@@ -16,7 +16,7 @@ var App = React.createClass({
                 <div>React Router: </div>
                 <div><a href="#/list">list page</a></div>
                 <div><a href="#/detail">detail page</a></div>
-                <div><a href="#/iframe">iframe page</a></div>
+                <div><a href="http://localhost:8888/frame">iframe page</a></div>
             </div>
         );
     }
